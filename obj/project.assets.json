@@ -7080,11 +7080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Desenvolvimento\\Desenvolvimento\\Projetos\\CustomerPanel\\CustomerPanel\\CustomerPanelAPI\\CustomerPanel.csproj",
+      "projectUniqueName": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\git\\CustomerPanel\\CustomerPanel.csproj",
       "projectName": "CustomerPanel",
-      "projectPath": "c:\\Desenvolvimento\\Desenvolvimento\\Projetos\\CustomerPanel\\CustomerPanel\\CustomerPanelAPI\\CustomerPanel.csproj",
+      "projectPath": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\git\\CustomerPanel\\CustomerPanel.csproj",
       "packagesPath": "C:\\Users\\pedro.holanda\\.nuget\\packages\\",
-      "outputPath": "c:\\Desenvolvimento\\Desenvolvimento\\Projetos\\CustomerPanel\\CustomerPanel\\CustomerPanelAPI\\obj\\",
+      "outputPath": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\git\\CustomerPanel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

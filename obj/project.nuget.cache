@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FvgbjoMFjffFKm7dqsm0u/AiVEyubB0LTpwRdcAfFmyUdXRx10LRHe1J29aT6eukI3fQegU7XGQjPslRNLpQqg==",
+  "dgSpecHash": "wA7fOayrQO/cfYZOdj8LUgW/pngAHNGD9ruFWObFrWX4pyZKR8ObgPKUK8Lp9zvhrp7hFikN6JsD32PedWqE6A==",
   "success": true,
-  "projectFilePath": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\CustomerPanel\\CustomerPanel\\CustomerPanelAPI\\CustomerPanel.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\git\\CustomerPanel\\CustomerPanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro.holanda\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\pedro.holanda\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

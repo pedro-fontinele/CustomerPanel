@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\CustomerPanel\\CustomerPanel\\CustomerPanelAPI\\CustomerPanel.csproj": {}
+    "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\git\\CustomerPanel\\CustomerPanel.csproj": {}
   },
   "projects": {
-    "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\CustomerPanel\\CustomerPanel\\CustomerPanelAPI\\CustomerPanel.csproj": {
+    "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\git\\CustomerPanel\\CustomerPanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\CustomerPanel\\CustomerPanel\\CustomerPanelAPI\\CustomerPanel.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\git\\CustomerPanel\\CustomerPanel.csproj",
         "projectName": "CustomerPanel",
-        "projectPath": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\CustomerPanel\\CustomerPanel\\CustomerPanelAPI\\CustomerPanel.csproj",
+        "projectPath": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\git\\CustomerPanel\\CustomerPanel.csproj",
         "packagesPath": "C:\\Users\\pedro.holanda\\.nuget\\packages\\",
-        "outputPath": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\CustomerPanel\\CustomerPanel\\CustomerPanelAPI\\obj\\",
+        "outputPath": "C:\\Desenvolvimento\\Desenvolvimento\\Projetos\\git\\CustomerPanel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
